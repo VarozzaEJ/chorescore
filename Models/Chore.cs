@@ -1,6 +1,6 @@
 namespace chorescore.Models;
 
-public class Chores
+public class Chore
 {
 public int Id {get; set;}
 
